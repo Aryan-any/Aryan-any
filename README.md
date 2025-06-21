@@ -50,6 +50,5 @@ I'm a GenAI and Machine Learning enthusiast passionate about building practical 
 
 - 📄 [LinkedIn](https://www.linkedin.com/in/aryan-mishra-177527218/)
 - 🤗 [Hugging Face](https://huggingface.co/AryanM1)
-- ✨ [More projects on GitHub](https://github.com/Aryan-any)
 
 ---
