@@ -3,7 +3,7 @@
 I'm a GenAI and Machine Learning enthusiast passionate about building practical and impactful AI tools. I love experimenting with LLMs, retrieval-augmented generation, and multimodal applications.
 
 - 🎯 Focus: GenAI Apps · LLM Engineering · LangChain · RAG · OpenAI · Hugging Face
-- 🛠️ Currently building: tools to automate and augment human workflows with AI
+- 🛠️ Currently building: Tools to automate and augment human workflows with AI
 - 💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/aryan-mishra-177527218/) | [Hugging Face](https://huggingface.co/AryanM1)
 
 ---
