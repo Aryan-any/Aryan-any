@@ -33,7 +33,7 @@ I focus on designing **end-to-end AI systems** - from fine-tuning models to depl
 
 ## 🧠 Featured Projects
 
-### 🔹 [ValuAI — Multi-Agent Price Intelligence System]()
+### 🔹 [ValuAI — Multi-Agent Price Intelligence System](https://github.com/Aryan-any/ValuAI)
 > Autonomous system for detecting underpriced products
 
 - Built **multi-agent pipeline**: scraping → reasoning → prediction  
