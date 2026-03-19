@@ -1,54 +1,32 @@
 # 👋 Hi, I'm Aryan Mishra
 
-I'm a AI and Machine Learning enthusiast passionate about building practical and impactful AI tools. I love experimenting with LLMs, retrieval-augmented generation, and multimodal applications.
+> Building AI systems that can reason, act, and operate in the real world.
 
-- 🎯 Focus: Multi-Agent System . GenAI Apps · LLM Engineering · LangChain · RAG · OpenAI · Hugging Face
-- 🛠️ Currently building: Tools to automate and augment human workflows with AI
-- 💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/aryan-mishra-177527218/) | [Email](mishraaryanm@gmail.com)
+AI Engineer building **intelligent systems at the intersection of LLMs, agents, and real-world AI applications**.
 
----
-
-## 🧠 Featured Projects
-
-### 🔹 [AI-powered-brochure-generator](https://github.com/Aryan-any/AI-powered-brochure-generator)
-> Generate visually appealing, customized brochures using AI
-- **Tech**: GPT-4, LangChain, Gradio
-- **Highlights**: Uses dynamic prompt generation + user inputs to build content for brochures
-- 💻 [Explore the Repo](https://github.com/Aryan-any/AI-powered-brochure-generator)
+I focus on designing **end-to-end AI systems** — from fine-tuning models to deploying **autonomous, multi-agent architectures** that solve real-world problems.
 
 ---
 
-### 🔹 [Expert-Knowledge-Worker](https://github.com/Aryan-any/Expert-Knowledge-Worker)
-> A personalized assistant for knowledge workers leveraging LLMs + structured workflows
-- **Tech**: LangChain, RAG, Vector DBs
-- **Highlights**: Designed to assist in tasks like summarization, research, and decision making
-- 💻 [Explore the Repo](https://github.com/Aryan-any/Expert-Knowledge-Worker)
+## ⚡ What I Work On
+
+- 🤖 **Agentic AI Systems** → Multi-agent orchestration, tool use, planning, memory  
+- 🧠 **LLM Engineering** → Fine-tuning (QLoRA, PEFT), evals, inference optimization  
+- 🌍 **World Models** → Structured reasoning, long-horizon planning, environment modeling  
+- 🧩 **Multimodal AI** → Vision + Language (YOLO, document AI, perception systems)  
+- 🏗️ **AI Systems Design** → RAG, retrieval pipelines, production-ready architectures  
+- ⚙️ **Physical / Edge AI** → Low-latency inference (FPGA, real-time systems)
 
 ---
 
-## ⚙️ Tools & Skills
+## 🧠 System Design Philosophy
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-orange?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-1A73E8?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-003366?style=for-the-badge)
+> “I don’t just build models — I build systems that *think, act, and improve*.”
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-any&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-any&theme=radical" width="400"/>
-</p>
-
----
-
-## 📬 Reach Out
-
-- 📄 [LinkedIn](https://www.linkedin.com/in/aryan-mishra-177527218/)
-- 🤗 [Email](mishraaryanm@gmail.com)
+- Design AI as **systems, not isolated models**
+- Prefer **modular + composable architectures**
+- Combine **reasoning (LLMs)** with **tools (APIs, retrieval, execution)**
+- Focus on **latency, scalability, and reliability**
+- Treat evaluation as a **first-class component**, not an afterthought
 
 ---
