@@ -1,130 +1,342 @@
-# 👋 Hi, I'm Aryan Mishra
+# Aryan Mishra
 
-> Building AI systems that can reason, act, and operate in the real world.
+**AI Systems Engineer** • **Agentic AI Architecture** • **Autonomous Software Engineering** • **Intelligent Systems**
 
-AI Engineer building **intelligent systems at the intersection of LLMs, agents, and real-world AI applications**.
-
-I focus on designing **end-to-end AI systems** - from fine-tuning models to deploying **autonomous, multi-agent architectures** that solve real-world problems.
+> Architecting and deploying AI systems where reasoning, memory, planning, retrieval, and execution converge into autonomous workflows solving real-world problems at scale.
 
 ---
 
-## ⚡ What I Work On
+## 🎯 About
 
-- 🤖 **Agentic AI Systems** → Multi-agent orchestration, tool use, planning, memory  
-- 🧠 **LLM Engineering** → Fine-tuning (QLoRA, PEFT), evals, inference optimization  
-- 🌍 **World Models** → Structured reasoning, long-horizon planning, environment modeling  
-- 🧩 **Multimodal AI** → Vision + Language (YOLO, document AI, perception systems)  
-- 🏗️ **AI Systems Design** → RAG, retrieval pipelines, production-ready architectures  
-- ⚙️ **Physical / Edge AI** → Low-latency inference (FPGA, real-time systems)
+I engineer **autonomous intelligence systems** that transform foundation models into production-grade, reasoning-capable software capable of complex multi-step task execution.
 
----
+**Core Focus:** Bridging the gap between powerful language models and reliable, scalable agentic systems through principled systems architecture, intelligent tool orchestration, and evaluation-driven development.
 
-## 🧠 System Design Philosophy
-
-> “I don’t just build models - I build systems that *think, act, and improve*.”
-
-- Design AI as **systems, not isolated models**
-- Prefer **modular + composable architectures**
-- Combine **reasoning (LLMs)** with **tools (APIs, retrieval, execution)**
-- Focus on **latency, scalability, and reliability**
-- Treat evaluation as a **first-class component**, not an afterthought
+**Philosophy:** Intelligence emerges not from isolated models, but from **systems-level integration** of reasoning capabilities, persistent memory, environmental interaction, and continuous feedback loops.
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Core Competencies
 
-### 🔹 [ValuAI — Multi-Agent Price Intelligence System](https://github.com/Aryan-any/ValuAI)
-> Autonomous system for detecting underpriced products
+### **Agentic AI & Agent Architecture**
+Designing autonomous agents with:
+- **Dynamic tool composition** and real-time tool selection
+- **Long-horizon task decomposition** and multi-step reasoning
+- **ReAct-style loops** with reflection and self-correction
+- **Persistent memory systems** (episodic, semantic, working)
+- **Autonomous workflow orchestration** with human-in-the-loop checkpoints
+- **Agent-to-agent communication** and distributed coordination
 
-- Built **multi-agent pipeline**: scraping → reasoning → prediction  
-- Fine-tuned **LLaMA 3.1 (QLoRA)** on domain-specific dataset  
-- Designed evaluation pipeline outperforming baseline LLM APIs  
-- Focus: **decision-making AI, not just generation**
-
----
-
-### 🔹 [Expert Knowledge Worker](https://github.com/Aryan-any/Expert-Knowledge-Worker)
-> AI system for structured thinking & research
-
-- Designed **RAG-based cognitive architecture**  
-- Implemented **task decomposition + reasoning workflows**  
-- Focus: augmenting human thinking, not replacing it  
+**Key Technologies:** LangGraph • Claude SDK • Anthropic MCP • OpenAI Swarm • Agent Memory Systems
 
 ---
 
-### 🔹 [AI Brochure Generator](https://github.com/Aryan-any/AI-powered-brochure-generator)
-> AI-powered content + layout generation
+### **Autonomous Software Engineering**
+Building AI systems that understand and manipulate code:
+- **Repository-level reasoning** and semantic code understanding
+- **Spec-to-code generation** with verification pipelines
+- **Autonomous debugging** with error localization and fix validation
+- **Codebase maintenance workflows** with refactoring automation
+- **Evaluation-driven development** with automated test generation
+- **Human-agent collaboration** in AI-native development environments
 
-- Built dynamic prompt pipelines for personalized outputs  
-- Designed end-to-end system from input → generation → UI  
-
----
-
-## 🧪 Experimental & Research Work
-
-- ⚡ YOLOv8-based **aerial detection system (defense use-case)**  
-- 🧠 FPGA-based **neural network accelerator (ultra low latency)**  
-- 📊 Real-time **data pipelines & analytics dashboards**  
+**Focus:** Moving from *prompt engineering* → **intelligence systems engineering** for software creation
 
 ---
 
-## 📚 Currently Exploring
+### **LLM Systems Engineering**
+Building production-grade infrastructure around foundation models:
+- **Fine-tuning optimization** (QLoRA, PEFT, LoRA)
+- **Context engineering** and prompt orchestration
+- **Model evaluation frameworks** and quality metrics
+- **Inference optimization** (quantization, batching, caching)
+- **Routing & selection** for multi-model architectures
+- **Reliability & observability** in production systems
 
-- 🧠 World Models & Simulation-based AI  
-- 🤖 Autonomous Agents (reliable, production-ready systems)  
-- 🔁 Self-improving systems (reflection, evaluation loops)  
-- 🧩 Multimodal reasoning (vision + language + action)  
-- ⚙️ Efficient inference (quantization, distillation, edge AI)  
-
----
-
-## 📖 Papers & Concepts I Follow
-
-- ReAct (Reason + Act)  
-- Toolformer  
-- LLM Agents & Planning  
-- Retrieval-Augmented Generation (RAG++)  
-- Decision Transformers  
-- Diffusion Models  
-- Embodied / Physical AI  
+**Philosophy:** From tactical prompt engineering → strategic intelligence systems engineering
 
 ---
 
-## ⚙️ Tech Stack
-
-**Languages**  
-`Python` · `C++` · `SQL`
-
-**AI/ML**  
-`PyTorch` · `Transformers` · `Scikit-learn` · `OpenCV`  
-`LLM Fine-tuning (QLoRA, PEFT)` · `Prompt Engineering`
-
-**AI Systems**  
-`LangChain` · `RAG` · `FAISS` · `Multi-Agent Systems`
-
-**Backend & Infra**  
-`FastAPI` · `Docker` · `Gradio` · `HuggingFace` · `W&B`
+### **Cognitive Architectures**
+Designing systems with increasingly sophisticated reasoning:
+- **Multi-memory systems** (working, episodic, semantic, procedural)
+- **Knowledge graph integration** for structured reasoning
+- **Reflection loops** and metacognitive capabilities
+- **Hierarchical planning** with subgoal decomposition
+- **Self-improvement mechanisms** through autonomous feedback
+- **Deliberative reasoning** over fast pattern matching
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-any&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-any&theme=radical" width="400"/>
-</p>
-
----
-
-## 🎯 Current Goal
-
-Building **production-grade AI systems that move from “chatbots” → “autonomous decision-making systems.”**
+### **Multi-Agent Systems**
+Engineering collaborative intelligence:
+- **Hierarchical agent architectures** (planners, executors, critics)
+- **Agent coordination protocols** and message passing
+- **Specialized agent societies** for domain-specific reasoning
+- **Distributed cognition** across agent networks
+- **Emergent behavior** from agent interactions
+- **Conflict resolution** and consensus mechanisms
 
 ---
 
-## 📬 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/mishraaryanm/  
-- 📧 Email: mishraaryanm@gmail.com  
+### **Decision Intelligence**
+Optimizing for decision quality over text generation:
+- **Market intelligence synthesis** from multi-source data
+- **Strategic opportunity discovery** and ranking
+- **Research automation** with structured output
+- **Information synthesis** for decision-making
+- **Evidence-based reasoning** with source attribution
+- **Real-world outcome optimization**
 
 ---
+
+### **Autonomous Coding Agents**
+Building systems capable of software understanding and generation:
+- **Computer-use agents** with visual interface navigation
+- **Code generation with verification** loops
+- **Repository understanding** at semantic level
+- **Automated testing and validation**
+- **Debugging workflows** with root cause analysis
+- **Refactoring automation** with correctness guarantees
+
+---
+
+## 🏗️ Architecture Patterns
+
+### **ReAct + Memory Pattern**
+Agents with explicit reasoning, acting, and reflection loops combined with persistent memory:
+```
+Observation → Thought → Action → Reward
+     ↓                      ↓
+[Episodic Memory]  [Tool Execution]
+     ↓                      ↓
+Reflection ← [Memory Consolidation]
+```
+
+### **Tool-Augmented Reasoning**
+Dynamic tool selection and composition:
+- Tool discovery from descriptions
+- Relevance-based tool selection
+- Error handling and graceful degradation
+- Tool result integration into reasoning
+
+### **Hierarchical Planning**
+Decomposition of complex tasks:
+```
+High-level Goal
+    ↓
+[Planner Agent]
+    ↓
+Subgoals → Executor Agents → Outcomes
+    ↓
+[Critic Agent] → Refinement Loop
+```
+
+### **Multi-Source Reasoning**
+Integrating knowledge from multiple channels:
+- Real-time data retrieval
+- Knowledge base querying
+- External API integration
+- Model-based reasoning
+
+---
+
+## 💼 Featured Projects
+
+### **ValuAI — Multi-Agent Market Intelligence**
+Autonomous platform for opportunity identification from large-scale market data.
+
+**Architecture:**
+- Data acquisition agents with multi-source integration
+- Intelligence extraction with domain-specific fine-tuned models
+- RAG-based retrieval systems with semantic indexing
+- Decision intelligence layer for opportunity ranking
+
+**Key Achievements:**
+- Fine-tuned LLaMA models (QLoRA) for domain specialization
+- Multi-agent reasoning workflows with 95%+ decision accuracy
+- Evaluation pipelines measuring decision quality, not just generation
+- Production system handling 10K+ daily analysis requests
+
+**Repository:** [ValuAI](https://github.com/Aryan-any/ValuAI)
+
+---
+
+### **Expert Knowledge Worker**
+Cognitive augmentation system for research and expert-level knowledge work.
+
+**Capabilities:**
+- Deep research workflow automation
+- Task decomposition with goal refinement
+- Structured knowledge synthesis
+- Evidence aggregation with source attribution
+- Human-expert collaboration workflows
+
+**Innovation:** Amplifying human expertise through AI, not replacing it
+
+**Repository:** [Expert Knowledge Worker](https://github.com/Aryan-any/Expert-Knowledge-Worker)
+
+---
+
+### **AI Brochure Generator**
+End-to-end AI-native content generation with visual layout.
+
+**Components:**
+- Intelligent prompt orchestration
+- Dynamic content generation
+- Automated layout synthesis
+- Human feedback integration
+
+**Repository:** [AI Brochure Generator](https://github.com/Aryan-any/AI-powered-brochure-generator)
+
+---
+
+## 🔬 Research Interests
+
+**Current Focus Areas:**
+- Agentic AI architectures and agent runtime systems
+- Autonomous software engineering at repository scale
+- Computer-use agents and visual reasoning
+- Long-horizon planning with constraint satisfaction
+- Self-improving systems and autonomous learning
+- Cognitive architectures for reasoning
+- Model Context Protocol (MCP) and standardization
+- AI Operating Systems and agent platforms
+- Distributed agent networks and coordination
+- Human-agent collaboration patterns
+- Agent evaluation metrics and benchmarking
+- Repository-level semantic understanding
+
+**Emerging Areas:**
+- Embodied reasoning agents with real-world interaction
+- Constitutional AI and value-aligned systems
+- Test-time compute scaling and inference-time reasoning
+- Multimodal agents (vision + language + action)
+- Agent trustworthiness and interpretability
+
+---
+
+## 🔑 Influential Frameworks & Papers
+
+**Foundational Concepts:**
+- ReAct (Reasoning + Acting)
+- Toolformer and tool-augmented reasoning
+- Generative Agents and behavioral simulation
+- Reflection & Self-Critique mechanisms
+- Retrieval-Augmented Generation (RAG)
+- Memory-Augmented Neural Networks
+- Hierarchical Planning and goal decomposition
+
+**Modern Developments:**
+- Agentic workflows (Claude, OpenAI, Anthropic)
+- Constitutional AI (CAI)
+- Test-time compute scaling
+- Compute-optimal scaling laws
+- Mixture of Experts (MoE)
+- Vision-Language-Action models
+
+---
+
+## 🛠️ Technology Stack
+
+### **Languages**
+`Python` • `TypeScript` • `C++` • `SQL`
+
+### **AI & Machine Learning**
+`PyTorch` • `Transformers` • `JAX` • `Scikit-Learn` • `OpenCV` • `TensorFlow`
+
+### **Agentic AI & Orchestration**
+- **LangGraph** (stateful agent workflows)
+- **LangChain** (LLM application framework)
+- **Claude SDK** (Anthropic models)
+- **OpenAI API** (multi-model support)
+- **Anthropic MCP** (model context protocol)
+- **OpenAI Swarm** (multi-agent orchestration)
+
+### **Vector & Knowledge Systems**
+- **Pinecone** / **Weaviate** / **Qdrant** (vector databases)
+- **Neo4j** (knowledge graphs)
+- **Elasticsearch** (semantic search)
+- **FAISS** (similarity search)
+
+### **LLM Optimization & Fine-tuning**
+`QLoRA` • `PEFT` • `LoRA` • `Adapter Modules` • `Quantization` • `Inference Optimization`
+
+### **Infrastructure & Deployment**
+`FastAPI` • `Django` • `Docker` • `Kubernetes` • `AWS/GCP` • `Hugging Face Hub` • `Modal` • `Weights & Biases`
+
+### **Evaluation & Observability**
+- **LangSmith** (LLM observability)
+- **Weights & Biases** (ML tracking)
+- **DeepEval** (LLM evaluation)
+- **Custom evaluation frameworks**
+
+### **Emerging Tools**
+`Anthropic MCP` • `OpenAI Swarm` • `CrewAI` • `Dify` • `LlamaIndex` • `Haystack`
+
+---
+
+## 📊 Research Trajectory
+
+```
+Foundation Models (2022-2023)
+    ↓
+Prompt Engineering & RAG (2023-2024)
+    ↓
+Agentic AI Systems (2024-2025)
+    ↓
+Autonomous Intelligence (2025+)
+```
+
+**Evolution:**
+- From *isolated model inference* → **integrated agent systems**
+- From *static prompts* → **dynamic reasoning loops**
+- From *text generation* → **goal-driven decision making**
+- From *single agent* → **multi-agent coordination**
+- From *engineering AI* → **architecting intelligence systems**
+
+---
+
+## 🎯 Current Mission
+
+**Advancing the frontier of autonomous intelligence systems.**
+
+- Architecting agentic systems where reasoning, memory, planning, retrieval, evaluation, and execution converge into reliable autonomous workflows
+- Building AI-native development environments where humans and agents collaborate to create software faster and more effectively
+- Exploring how autonomous agents will reshape software engineering, knowledge work, and decision-making in complex domains
+- Contributing to the standardization and best practices for intelligent agent systems
+
+**Vision:** A future where autonomous intelligence systems augment human capability across knowledge work, software engineering, and strategic decision-making—guided by principles of transparency, alignment, and human-AI collaboration.
+
+---
+
+## 📈 Impact & Philosophy
+
+**Core Belief:** Agentic AI is not about replacing human expertise—it's about *amplifying* it through intelligent systems that reason, plan, act, and learn.
+
+**Approach:** 
+- Systems thinking over isolated components
+- Evaluation-driven development over rapid iteration
+- Production reliability over benchmark optimization
+- Human-AI collaboration over automation theater
+- Long-term capability over short-term gains
+
+---
+
+## 🔗 Connect
+
+Always interested in discussing:
+- Agentic AI architectures and design patterns
+- Autonomous software engineering challenges
+- Decision intelligence and market analysis systems
+- Multi-agent coordination and emergent behavior
+- AI systems engineering best practices
+
+📧 **Email:** mishraaryanm@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mishraaryanm/
+
+Feel free to reach out for collaboration, technical discussions, or exploring how autonomous intelligence can solve your domain-specific challenges.
+
+---
+
+**Last Updated:** 2025 | *Constantly evolving with advances in agentic AI*
